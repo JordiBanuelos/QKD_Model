@@ -8,7 +8,7 @@ public class BB84 {
         String nbrOfMatches = "";//String that stores the number of matches per round
         String num = "";//String that stores
         int count = 1;
-        int count2 = 0;
+        int count2 = 0; //added comment
         int same = 0;//counts when there the same
         String match = "";
         String key = "";
